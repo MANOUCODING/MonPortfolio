@@ -423,8 +423,14 @@ header.sticky{
 	background-image: url(../img/intro.png);
 	background-size: cover;
 }
+.center h4{
+	font-size: 20px;
+	font-weight: 500;
+	margin-bottom: 3px;
+	color: var(--bg-color);
+}
 .center h3{
-	font-size: 30px;
+	font-size: 25px;
 	font-weight: 500;
 	margin-bottom: 3px;
 	color: var(--bg-color);
